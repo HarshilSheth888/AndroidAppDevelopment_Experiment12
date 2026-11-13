@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WEBSERVICEDEMO" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#818CF8</item>
+        <item name="colorOnPrimary">#1E1B4B</item>
+        <item name="colorPrimaryContainer">#312E81</item>
+        <item name="colorOnPrimaryContainer">#E0E7FF</item>
+
+        <item name="colorSecondary">#2DD4BF</item>
+        <item name="colorOnSecondary">#042F2E</item>
+        <item name="colorSecondaryContainer">#134E4A</item>
+        <item name="colorOnSecondaryContainer">#CCFBF1</item>
+
+        <item name="android:colorBackground">#0B0F17</item>
+        <item name="colorSurface">#131B2E</item>
+        <item name="colorOnSurface">#F1F5F9</item>
+        <item name="colorSurfaceVariant">#1E293B</item>
+        <item name="colorOnSurfaceVariant">#94A3B8</item>
+        <item name="colorOutline">#334155</item>
+        <item name="colorOutlineVariant">#1E293B</item>
+
+        <item name="android:statusBarColor">#131B2E</item>
+        <item name="android:navigationBarColor">#131B2E</item>
+    </style>
+</resources>

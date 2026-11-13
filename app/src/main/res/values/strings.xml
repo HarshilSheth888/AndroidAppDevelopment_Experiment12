@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HTTP Web Services</string>
+    <string name="app_subtitle">Android Networking Studio</string>
+    <string name="tab_rest_feed">Live REST Feed</string>
+    <string name="tab_http_inspector">HTTP Playground</string>
+    <string name="method_get">GET</string>
+    <string name="method_post">POST</string>
+    <string name="method_put">PUT</string>
+    <string name="method_delete">DELETE</string>
+    <string name="method_patch">PATCH</string>
+    <string name="method_head">HEAD</string>
+    <string name="engine_okhttp">OkHttp 4</string>
+    <string name="engine_httpurlconnection">HttpURLConnection</string>
+    <string name="engine_label">Engine: %1$s</string>
+    <string name="stat_total_posts">%1$d posts</string>
+    <string name="stat_ms">%1$d ms</string>
+    <string name="post_id_format">#%1$d</string>
+    <string name="user_format">User %1$d</string>
+    <string name="dialog_post_subtitle">Target: https://jsonplaceholder.typicode.com/posts/%1$d</string>
+    <string name="send_request">Send HTTP Request</string>
+    <string name="format_json">Format JSON</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+</resources>
